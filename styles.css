@@ -2,8 +2,12 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
 
+}
+ html{
+ overflow-y: scroll;
+    scroll-behavior: smooth;
+}
 body
 {
 
@@ -15,6 +19,7 @@ body
     display: grid;
     grid-template-columns: 100vw;
     grid-auto-rows: 100vh;
+
 }
 
 img {
