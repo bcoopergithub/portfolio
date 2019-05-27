@@ -1,6 +1,8 @@
 # portfolio
 
-# link: https://brandonwebdesign.netlify.com/
+## website : https://brandonwebdesign.netlify.com/
+
+## github : https://github.com/gjwtc3/portfolio
 
 ## Original concept 
 
